@@ -1,8 +1,8 @@
 {
-    "PREFIX": "!",
+    "PREFIX": "PREFIX",
     "ignoreErrors": ["Cannot find module", "Missing Permissions"],
-    "developersID": ["254728766314512384"],
-    "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=810962832681467915&permissions=8&scope=bot",
-    "website": "https://www.pokefans.com/",
-    "support": "https://discord.gg/pokefans"
+    "developersID": ["Developer ID"],
+    "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=BOT_ID&permissions=8&scope=bot",
+    "website": "https://example.com/",
+    "support": "https://discord.gg/invite"
 }
